@@ -27,6 +27,8 @@ import ArticleListContent from '@/components/ArticleListContent'
 
 import Dialog from '@/components/Dialog'
 
+import EmbedFrame from '@/components/EmbedFrame'
+
 export {
   AvatarList,
   Bar,
@@ -51,6 +53,6 @@ export {
   TagSelect,
   StandardFormRow,
   ArticleListContent,
-
-  Dialog
+  Dialog,
+  EmbedFrame
 }
